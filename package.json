@@ -1,0 +1,16 @@
+{
+  "name": "nodejs-chatgpt-tutorial-cn",
+  "version": "1.0.0",
+  "description": "Node.js 命令行链接 ChatGPT 教程",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "openai": "^3.2.1"
+  }
+}
