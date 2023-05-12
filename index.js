@@ -2,8 +2,8 @@ import { Configuration, OpenAIApi } from "openai";
 import readline from "readline";
 
 const configuration = new Configuration({
-    organization: "org-jjejpjTnf5XLfxX1ePXWoBbT",
-    apiKey: "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",
+    organization: "org-xxx",
+    apiKey: "sk-xxxxx",
 })
 
 const openai = new OpenAIApi(configuration);
